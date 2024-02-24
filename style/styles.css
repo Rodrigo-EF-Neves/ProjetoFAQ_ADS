@@ -1,0 +1,38 @@
+body {
+    background-color: #fcfcfc;
+}
+
+.faq-title {
+    text-align: center;
+}
+
+.faq-card {
+    border: 2px solid #383838;
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.toggle-btn {
+    border-radius: 50%;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.toggle-btn,.toggle-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.hidden-text {
+    display: none;
+}
