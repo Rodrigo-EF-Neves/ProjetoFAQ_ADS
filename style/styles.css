@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
     background-color: #fcfcfc;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .faq-title {
@@ -28,7 +31,7 @@ body {
     padding: 10px;
 }
 
-.toggle-btn,.toggle-icon {
+.toggle-btn, .toggle-icon {
     width: 20px;
     height: 20px;
 }
