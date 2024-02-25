@@ -62,3 +62,13 @@ body {
     font-weight: 500;
     font-style: italic;
 }
+
+@media screen and (max-width: 400px) {
+    .faq-card {
+        max-width: 250px;
+    }
+
+    .faq-text {
+        font-size: 18px;
+    }
+}
