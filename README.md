@@ -12,3 +12,5 @@ O projeto consiste em uma única página de FAQ (Frequently Asked Questions ou P
 Escolhi essas tecnologias porque achei interessante o desafio de tentar montar uma página de FAQ com HTML, CSS e JavaScript puro ao invés de usar uma biblioteca como o Bootstrap.
 
 A estrutura do projeto é bem simples, contendo algumas pastas como a pasta style, para o arquivo CSS, e assets que contém o arquivo JavaScript e uma pasta images para as imagens.
+
+Visite o site por meio deste link: https://rodrigo-ef-neves.github.io/ProjetoFAQ_ADS/
